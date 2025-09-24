@@ -1,0 +1,110 @@
+-- Quero comprar o livro Dom Casmurro
+-- Gostaria de adquirir o livro O Senhor dos Anéis
+-- Estou procurando o livro 1984 para comprar
+-- Onde posso comprar o livro Harry Potter e a Pedra Filosofal?
+-- Quero encomendar o livro Cem Anos de Solidão
+-- Desejo comprar o livro O Pequeno Príncipe online
+-- Quero comprar o livro O Alquimista agora
+-- Como posso comprar o livro Moby Dick?
+-- Estou interessado em comprar o livro Orgulho e Preconceito
+-- Quero comprar o livro O Hobbit físico
+-- Gostaria de comprar o livro A Revolução dos Bichos novo
+-- Preciso comprar o livro Crime e Castigo
+-- Quero comprar o livro O Código Da Vinci rapidamente
+-- Quero adquirir o livro A Menina que Roubava Livros para mim
+-- Onde posso adquirir o livro O Morro dos Ventos Uivantes?
+-- Quero comprar o livro O Grande Gatsby de forma segura
+-- Quero comprar o livro Alice no País das Maravilhas facilmente
+-- Quero comprar o livro Dom Quixote pela internet
+-- Estou pensando em comprar o livro O Senhor das Moscas
+-- Quero comprar o livro A Metamorfose agora mesmo
+-- Quero comprar o livro O Perfume
+-- Quero comprar o livro O Homem Invisível
+-- Quero comprar o livro A Ilha do Tesouro
+-- Quero comprar o livro A Cabana
+-- Quero comprar o livro Como Eu Era Antes de Você
+-- Quero comprar o livro Jogos Vorazes
+-- Quero comprar o livro Divergente
+-- Quero comprar o livro A Menina do Vale
+-- Quero comprar o livro O Segredo
+-- Quero comprar o livro Comer, Rezar, Amar
+-- Quero comprar o livro O Diário de um Banana
+-- Quero comprar o livro O Pequeno Nicolau
+-- Quero comprar o livro O Circo da Noite
+-- Quero comprar o livro O Orfanato da Srta. Peregrine para Crianças Peculiares
+-- Quero comprar o livro Extraordinário
+-- Quero comprar o livro O Ceifador
+-- Quero comprar o livro A Rainha Vermelha
+-- Quero comprar o livro O Código Élfico
+-- Quero comprar o livro A Sombra do Vento
+-- Quero comprar o livro O Cemitério dos Livros Esquecidos
+-- Quero comprar o livro O Homem de Giz
+-- Quero comprar o livro Antes que Eu Vá
+-- Quero comprar o livro O Último Adeus
+-- Quero comprar o livro A Biblioteca Invisível
+-- Quero comprar o livro O Livro das Sombras
+-- Quero comprar o livro O Conto da Aia
+-- Quero comprar o livro O Ladrão de Raios
+-- Quero comprar o livro Percy Jackson e o Mar de Monstros
+-- Quero comprar o livro A Bússola de Ouro
+-- Quero comprar o livro O Fim do Mundo e o Fim de Deus
+-- Quero informações sobre o livro Dom Casmurro
+-- Me indique livros interessantes como O Pequeno Príncipe
+-- Quais são os livros mais populares atualmente, como 1984?
+-- Procuro livros de ficção científica, por exemplo, Duna
+-- Quais livros você recomenda para iniciantes em filosofia, como O Mundo de Sofia?
+-- Me fale sobre livros de autores clássicos, como Orgulho e Preconceito
+-- Quais são os melhores livros de suspense, como O Código Da Vinci?
+-- Quero saber sobre lançamentos de livros infantis, como Harry Potter e a Pedra Filosofal
+-- Existe algum livro sobre história do Brasil, como Raízes do Brasil?
+-- Me indique livros de romance histórico, como Cem Anos de Solidão
+-- Quais livros de poesia valem a pena ler, como Livro de Mágoas?
+-- Quero conhecer biografias de escritores famosos, como Vida de Pi
+-- Me conte a sinopse de um livro interessante, como O Hobbit
+-- Quais livros ganharam prêmios literários recentemente, como O Sol é Para Todos?
+-- Quero dicas de livros de aventura para adolescentes, como Percy Jackson e o Ladrão de Raios
+-- Me indique livros de não-ficção sobre ciência, como Uma Breve História do Tempo
+-- Quais livros de autoajuda são mais populares, como O Segredo?
+-- Quero descobrir livros de autores independentes, como A Menina que Roubava Livros
+-- Me fale sobre livros de mitologia, como Mitologia Nórdica
+-- Quais são os clássicos da literatura mundial, como Dom Quixote?
+-- Me indique livros de fantasia para jovens adultos, como A Guerra dos Tronos
+-- Quero saber sobre livros de psicologia, como Rápido e Devagar
+-- Quais livros de política são recomendados, como O Príncipe?
+-- Me fale sobre livros de gastronomia, como Cozinha Prática
+-- Quero dicas de livros de contos curtos, como Contos de Fadas
+-- Me ensine como encontrar e-books disponíveis, como O Alquimista
+-- Quais livros de fotografia são interessantes, como Fotografia Essencial
+-- Quero saber sobre livros de economia, como Capital no Século XXI
+-- Me indique livros de viagens e cultura, como Comer, Rezar, Amar
+-- Quais livros sobre tecnologia são recomendados, como O Dilema da Inovação
+-- Quero informações sobre o livro O Perfume
+-- Me indique livros interessantes como O Homem Invisível
+-- Quais são os livros mais populares atualmente, como A Cabana?
+-- Procuro livros de aventura, por exemplo, A Ilha do Tesouro
+-- Quais livros você recomenda para jovens leitores, como O Menino do Pijama Listrado?
+-- Me fale sobre livros de fantasia, como O Silmarillion
+-- Quais são os melhores livros de romance, como Como Eu Era Antes de Você?
+-- Quero saber sobre lançamentos de livros infantis, como O Diário de um Banana
+-- Existe algum livro sobre ciência, como Uma História do Mundo em 100 Objetos?
+-- Me indique livros de mistério, como O Homem de Giz
+-- Quais livros de horror valem a pena ler, como Drácula
+-- Quero conhecer biografias de pessoas inspiradoras, como Steve Jobs
+-- Me conte a sinopse de um livro interessante, como O Circo da Noite
+-- Quais livros ganharam prêmios recentemente, como O Conto da Aia
+-- Quero dicas de livros de ficção para jovens adultos, como A Rainha Vermelha
+-- Me indique livros de não-ficção sobre história, como Sapiens
+-- Quais livros de autoajuda são bons, como O Poder do Hábito?
+-- Quero descobrir livros de autores independentes, como Extraordinário
+-- Me fale sobre livros de mitologia, como Mitologia Grega
+-- Quais são os clássicos da literatura infantil, como O Pequeno Nicolau?
+-- Me indique livros de fantasia para todas as idades, como A Bússola de Ouro
+-- Quero saber sobre livros de filosofia, como O Mundo de Sofia
+-- Quais livros de política são importantes, como 1984?
+-- Me fale sobre livros de culinária, como Cozinha de Verdade
+-- Quero dicas de livros de contos, como Contos de Grimm
+-- Me ensine como encontrar livros digitais, como O Alquimista
+-- Quais livros de fotografia são bons, como Fotografia Essencial
+-- Quero saber sobre livros de economia, como O Capital
+-- Me indique livros de viagens, como Comer, Rezar, Amar
+-- Quais livros de tecnologia são recomendados, como O Dilema da Inovação

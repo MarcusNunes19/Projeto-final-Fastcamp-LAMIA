@@ -1,0 +1,159 @@
+-- Me indique livros interessantes como O Pequeno Príncipe
+-- Quais são os livros mais populares atualmente, como 1984?
+-- Procuro livros de ficção científica, por exemplo, Duna
+-- Quais livros você recomenda para iniciantes em filosofia, como O Mundo de Sofia?
+-- Me fale sobre livros de autores clássicos, como Orgulho e Preconceito
+-- Quais são os melhores livros de suspense, como O Código Da Vinci?
+-- Quero saber sobre lançamentos de livros infantis, como Harry Potter e a Pedra Filosofal
+-- Existe algum livro sobre história do Brasil, como Raízes do Brasil?
+-- Me indique livros de romance histórico, como Cem Anos de Solidão
+-- Quais livros de poesia valem a pena ler, como Livro de Mágoas?
+-- Quero conhecer biografias de escritores famosos, como Vida de Pi
+-- Me conte a sinopse de um livro interessante, como O Hobbit
+-- Quais livros ganharam prêmios literários recentemente, como O Sol é Para Todos?
+-- Quero dicas de livros de aventura para adolescentes, como Percy Jackson e o Ladrão de Raios
+-- Me indique livros de não-ficção sobre ciência, como Uma Breve História do Tempo
+-- Quais livros de autoajuda são mais populares, como O Segredo?
+-- Quero descobrir livros de autores independentes, como A Menina que Roubava Livros
+-- Me fale sobre livros de mitologia, como Mitologia Nórdica
+-- Quais são os clássicos da literatura mundial, como Dom Quixote?
+-- Me indique livros de fantasia para jovens adultos, como A Guerra dos Tronos
+-- Quero saber sobre livros de psicologia, como Rápido e Devagar
+-- Quais livros de política são recomendados, como O Príncipe?
+-- Me fale sobre livros de gastronomia, como Cozinha Prática
+-- Quero dicas de livros de contos curtos, como Contos de Fadas
+-- Me ensine como encontrar e-books disponíveis, como O Alquimista
+-- Quais livros de fotografia são interessantes, como Fotografia Essencial
+-- Quero saber sobre livros de economia, como Capital no Século XXI
+-- Me indique livros de viagens e cultura, como Comer, Rezar, Amar
+-- Quais livros sobre tecnologia são recomendados, como O Dilema da Inovação
+-- Quero informações sobre o livro O Perfume
+-- Me indique livros interessantes como O Homem Invisível
+-- Quais são os livros mais populares atualmente, como A Cabana?
+-- Procuro livros de aventura, por exemplo, A Ilha do Tesouro
+-- Quais livros você recomenda para jovens leitores, como O Menino do Pijama Listrado?
+-- Me fale sobre livros de fantasia, como O Silmarillion
+-- Quais são os melhores livros de romance, como Como Eu Era Antes de Você?
+-- Quero saber sobre lançamentos de livros infantis, como O Diário de um Banana
+-- Existe algum livro sobre ciência, como Uma História do Mundo em 100 Objetos?
+-- Me indique livros de mistério, como O Homem de Giz
+-- Quais livros de horror valem a pena ler, como Drácula
+-- Quero conhecer biografias de pessoas inspiradoras, como Steve Jobs
+-- Me conte a sinopse de um livro interessante, como O Circo da Noite
+-- Quais livros ganharam prêmios recentemente, como O Conto da Aia
+-- Quero dicas de livros de ficção para jovens adultos, como A Rainha Vermelha
+-- Me indique livros de não-ficção sobre história, como Sapiens
+-- Quais livros de autoajuda são bons, como O Poder do Hábito?
+-- Quero descobrir livros de autores independentes, como Extraordinário
+-- Me fale sobre livros de mitologia, como Mitologia Grega
+-- Quais são os clássicos da literatura infantil, como O Pequeno Nicolau?
+-- Me indique livros de fantasia para todas as idades, como A Bússola de Ouro
+-- Quero saber sobre livros de filosofia, como O Mundo de Sofia
+-- Quais livros de política são importantes, como 1984?
+-- Me fale sobre livros de culinária, como Cozinha de Verdade
+-- Quero dicas de livros de contos, como Contos de Grimm
+-- Me ensine como encontrar livros digitais, como O Alquimista
+-- Quais livros de fotografia são bons, como Fotografia Essencial
+-- Quero saber sobre livros de economia, como O Capital
+-- Me indique livros de viagens, como Comer, Rezar, Amar
+-- Quais livros de tecnologia são recomendados, como O Dilema da Inovação
+-- Gostaria de saber mais sobre o livro Dom Casmurro
+-- Gostaria de saber mais sobre o livro O Pequeno Príncipe
+-- Gostaria de saber mais sobre o livro 1984
+-- Gostaria de saber mais sobre o livro O Senhor dos Anéis
+-- Gostaria de saber mais sobre o livro O Hobbit
+-- Gostaria de saber mais sobre o livro O Morro dos Ventos Uivantes
+-- Gostaria de saber mais sobre o livro Orgulho e Preconceito
+-- Gostaria de saber mais sobre o livro A Metamorfose
+-- Gostaria de saber mais sobre o livro O Conde de Monte Cristo
+-- Gostaria de saber mais sobre o livro Cem Anos de Solidão
+-- Quais livros são parecidos com o livro Harry Potter e a Pedra Filosofal
+-- Quais livros são parecidos com o livro As Crônicas de Nárnia
+-- Quais livros são parecidos com o livro O Código Da Vinci
+-- Quais livros são parecidos com o livro O Lobo da Estepe
+-- Quais livros são parecidos com o livro O Alquimista
+-- Quais livros são parecidos com o livro A Guerra dos Tronos
+-- Quais livros são parecidos com o livro O Nome do Vento
+-- Quais livros são parecidos com o livro A Menina que Roubava Livros
+-- Quais livros são parecidos com o livro O Sol é Para Todos
+-- Quais livros são parecidos com o livro O Diário de Anne Frank
+-- Gostaria de saber mais sobre o livro Drácula
+-- Gostaria de saber mais sobre o livro Frankenstein
+-- Gostaria de saber mais sobre o livro O Retrato de Dorian Gray
+-- Gostaria de saber mais sobre o livro A Revolta de Atlas
+-- Gostaria de saber mais sobre o livro Moby Dick
+-- Gostaria de saber mais sobre o livro O Grande Gatsby
+-- Gostaria de saber mais sobre o livro A Divina Comédia
+-- Gostaria de saber mais sobre o livro O Processo
+-- Gostaria de saber mais sobre o livro O Apanhador no Campo de Centeio
+-- Gostaria de saber mais sobre o livro A Ilíada
+-- Gostaria de saber mais sobre o livro Odisseia
+-- Gostaria de saber mais sobre o livro Os Miseráveis
+-- Gostaria de saber mais sobre o livro Fausto
+-- Gostaria de saber mais sobre o livro A Cabana
+-- Gostaria de saber mais sobre o livro O Silmarillion
+-- Gostaria de saber mais sobre o livro O Sol Também se Levanta
+-- Gostaria de saber mais sobre o livro Anna Kariênina
+-- Gostaria de saber mais sobre o livro Guerra e Paz
+-- Gostaria de saber mais sobre o livro Crime e Castigo
+-- Gostaria de saber mais sobre o livro Irmãos Karamázov
+-- Gostaria de saber mais sobre o livro O Velho e o Mar
+-- Gostaria de saber mais sobre o livro Admirável Mundo Novo
+-- Gostaria de saber mais sobre o livro O Conto da Aia
+-- Gostaria de saber mais sobre o livro Fahrenheit 451
+-- Gostaria de saber mais sobre o livro A Casa dos Espíritos
+-- Quais livros são parecidos com o livro O Pequeno Nicolau
+-- Quais livros são parecidos com o livro A Culpa é das Estrelas
+-- Quais livros são parecidos com o livro O Menino do Pijama Listrado
+-- Quais livros são parecidos com o livro Extraordinário
+-- Quais livros são parecidos com o livro O Homem de Giz
+-- Quais livros são parecidos com o livro Coraline
+-- Quais livros são parecidos com o livro A Rainha Vermelha
+-- Quais livros são parecidos com o livro O Circo da Noite
+-- Quais livros são parecidos com o livro O Sol é para Todos
+-- Quais livros são parecidos com o livro Sapiens
+-- Quais livros são parecidos com o livro Uma Breve História do Tempo
+-- Quais livros são parecidos com o livro Mitologia Nórdica
+-- Quais livros são parecidos com o livro Mitologia Grega
+-- Quais livros são parecidos com o livro O Nome da Rosa
+-- Quais livros são parecidos com o livro O Médico e o Monstro
+-- Quais livros são parecidos com o livro Viagem ao Centro da Terra
+-- Quais livros são parecidos com o livro A Máquina do Tempo
+-- Quais livros são parecidos com o livro O Jardim Secreto
+-- Quais livros são parecidos com o livro A Princesinha
+-- Quais livros são parecidos com o livro O Vento nos Salgueiros
+-- Quais livros são parecidos com o livro As Aventuras de Tom Sawyer
+-- Quais livros são parecidos com o livro As Aventuras de Huckleberry Finn
+-- Quais livros são parecidos com o livro O Livro das Sombras
+-- Quais livros são parecidos com o livro O Leão, a Feiticeira e o Guarda-Roupa
+-- Quais livros são parecidos com o livro O Pequeno Príncipe
+-- Me fale sobre o livro O Hobbit
+-- Me fale sobre o livro O Senhor dos Anéis
+-- Me fale sobre o livro Dom Casmurro
+-- Me fale sobre o livro O Pequeno Príncipe
+-- Me fale sobre o livro 1984
+-- Me fale sobre o livro Admirável Mundo Novo
+-- Me fale sobre o livro O Apanhador no Campo de Centeio
+-- Me fale sobre o livro O Grande Gatsby
+-- Me fale sobre o livro Moby Dick
+-- Me fale sobre o livro A Metamorfose
+-- Me fale sobre o livro O Conde de Monte Cristo
+-- Me fale sobre o livro Guerra e Paz
+-- Me fale sobre o livro Crime e Castigo
+-- Me fale sobre o livro Anna Kariênina
+-- Me fale sobre o livro Orgulho e Preconceito
+-- Me fale sobre o livro Os Miseráveis
+-- Me fale sobre o livro A Divina Comédia
+-- Me fale sobre o livro O Retrato de Dorian Gray
+-- Me fale sobre o livro O Morro dos Ventos Uivantes
+-- Me fale sobre o livro A Ilíada
+-- Me fale sobre o livro Odisseia
+-- Me fale sobre o livro O Diário de Anne Frank
+-- Me fale sobre o livro A Menina que Roubava Livros
+-- Me fale sobre o livro O Sol é Para Todos
+-- Me fale sobre o livro A Revolta de Atlas
+-- Me fale sobre o livro O Silmarillion
+-- Me fale sobre o livro O Código Da Vinci
+-- Me fale sobre o livro O Nome do Vento
+-- Me fale sobre o livro A Guerra dos Tronos
+-- Me fale sobre o livro As Crônicas de Nárnia
