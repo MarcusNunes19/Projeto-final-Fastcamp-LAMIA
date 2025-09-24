@@ -1,0 +1,9 @@
+dotenv
+streamlit
+langgraph
+langchain-community
+langgraph
+reportlab
+pymupdf
+spacy
+langchain-Groq
